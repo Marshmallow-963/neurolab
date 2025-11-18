@@ -1,0 +1,167 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/core/runge-kutta/rk4.o",
+      "src/core/runge-kutta/rk4.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/core/runge-kutta/rk4.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/core/runge-kutta/rk4.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/core/data-tratament/tratament.o",
+      "src/core/data-tratament/tratament.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/core/data-tratament/tratament.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/core/data-tratament/tratament.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/synaptic/ampa-gabaa/ampa_gabaa_model.o",
+      "src/model/synaptic/ampa-gabaa/ampa_gabaa_model.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/synaptic/ampa-gabaa/ampa_gabaa_model.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/synaptic/ampa-gabaa/ampa_gabaa_model.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/synaptic/ampa-gabaa/ampa_gabaa_config.o",
+      "src/model/synaptic/ampa-gabaa/ampa_gabaa_config.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/synaptic/ampa-gabaa/ampa_gabaa_config.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/synaptic/ampa-gabaa/ampa_gabaa_config.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/synaptic/synapse.o",
+      "src/model/synaptic/synapse.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/synaptic/synapse.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/synaptic/synapse.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/neural/neuron.o",
+      "src/model/neural/neuron.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/neural/neuron.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/neural/neuron.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/neural/izhikevich/izhikevich_model.o",
+      "src/model/neural/izhikevich/izhikevich_model.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/neural/izhikevich/izhikevich_model.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/neural/izhikevich/izhikevich_model.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/neural/izhikevich/izhikevich_config.o",
+      "src/model/neural/izhikevich/izhikevich_config.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/neural/izhikevich/izhikevich_config.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/neural/izhikevich/izhikevich_config.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/neural/hodgkin-huxley/hodgkin_huxley_model.o",
+      "src/model/neural/hodgkin-huxley/hodgkin_huxley_model.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/neural/hodgkin-huxley/hodgkin_huxley_model.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/neural/hodgkin-huxley/hodgkin_huxley_model.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/model/neural/hodgkin-huxley/hodgkin_huxley_config.o",
+      "src/model/neural/hodgkin-huxley/hodgkin_huxley_config.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/model/neural/hodgkin-huxley/hodgkin_huxley_config.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/model/neural/hodgkin-huxley/hodgkin_huxley_config.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0",
+    "file": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/src/main.c",
+    "output": "/home/alexia/Área de Trabalho/Alex/Iniciação Científica/neural_simulator_v.0.6.0/obj/main.o"
+  }
+]
