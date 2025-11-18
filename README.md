@@ -39,7 +39,7 @@ To use the program, you must first compile it and then run it from the project's
 
 ## 🎓 Authorship and Academic Context
 
-This software was developed by an Undergraduate Research (IC) student from the **Computational Neuroscience Group** at the **nstitute of Physics (IF)** of the **Federal University of Alagoas (Ufal)**.
+This software was developed by an Undergraduate Research (IC) student from the **Computational Neuroscience Group** at the **Institute of Physics (IF)** of the **Federal University of Alagoas (Ufal)**.
 
-The project was carried out under the supervision of Prof. Dr. Fernada Selingrad.
+The project was carried out under the supervision of **Prof. Dr. Fernanda Selingardi Matias**.
 
